@@ -1,3 +1,6 @@
 # spam-detection
-This project is completed as a part of [Machine Leaning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t) progam by Udacity. 
+
+## Introduction
+Spam detection is one of the major applications of Machine Learning in the interwebs today. Pretty much all of the major email service providers have spam detection systems built in and automatically classify such mail as 'Junk Mail'.
+
 
