@@ -13,10 +13,7 @@ One of the major advantages that Naive Bayes has over other classification algor
 
 Below is are some evaluation metrics of Multinomial Naive Bayes classifier on SMS Spam Collection Dataset:
 
-**_Accuracy score_**:  0.9885139985642498
-
-**_Precision score_**:  0.9720670391061452
-
-**_Recall score_**:  0.9405405405405406
-
-**_F1 score_**:  0.9560439560439562
+**Accuracy score**:  0.9885139985642498   
+**Precision score**:  0.9720670391061452   
+**Recall score**:  0.9405405405405406  
+**F1 score**:  0.9560439560439562
